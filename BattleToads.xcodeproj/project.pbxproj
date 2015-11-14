@@ -132,8 +132,7 @@
 				C4E842B91BF68E580020F062 /* two.png */,
 				C4E842BA1BF68E580020F062 /* twoMirror.png */,
 			);
-			name = "AnimationSprites and Music";
-			path = "Animation sprites and Music";
+			path = "AnimationSprites and Music";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
