@@ -1,5 +1,5 @@
 # BattleToads.Animation
 
-UIView Animation with interaction and BattleToads sprites %)
+UIView and UIImageView Animation with BattleToads sprites %)
 
 https://vk.com/video1929360_171532246
