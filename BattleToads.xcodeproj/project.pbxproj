@@ -133,7 +133,7 @@
 				C4E842BA1BF68E580020F062 /* twoMirror.png */,
 			);
 			name = "AnimationSprites and Music";
-			path = "Run Animation";
+			path = "Animation sprites and Music";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -372,6 +372,7 @@
 				C4E842A71BF68CE40020F062 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
